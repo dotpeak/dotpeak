@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <div  align="center">
     <h2>Discord Status<br><br>
