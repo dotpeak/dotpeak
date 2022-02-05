@@ -1,6 +1,6 @@
 ### Hello 👋
 
-<div  align="center">
+<div align="center">
     <h2>Discord Status<br><br>
     <a href="https://discord.com/users/578976818611224586">
     <img height="80px" src="https://discord.c99.nl/widget/theme-3/578976818611224586.png" />
